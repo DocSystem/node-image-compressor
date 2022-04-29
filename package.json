@@ -1,5 +1,5 @@
 {
-  "name": "image-compressor",
+  "name": "@docsystem/image-compressor",
   "version": "1.0.0",
   "description": "A node module to compress the difference between two images",
   "main": "src/main.js",
